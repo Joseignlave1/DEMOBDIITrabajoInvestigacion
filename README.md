@@ -1,4 +1,4 @@
-# DEMOBDIITrabajoInvestigacion
+# DEMO del trabajo de investigación para Base de Datos II del Grupo 3
 
 Este proyecto es una demostración de cómo ejecutar un modelo de regresión lineal utilizando PostgreSQL con la extensión MADlib embebida.
 
